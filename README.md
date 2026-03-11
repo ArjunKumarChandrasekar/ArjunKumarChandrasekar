@@ -1,112 +1,77 @@
-# Hi, I'm Arjun 👋
+# Hey, I'm Arjun 👋
 
-I'm an AI/ML Engineer currently doing my Master's in Artificial Intelligence at DePaul University, Chicago. I graduate in March 2026.
+I'm an AI/ML Engineer who believes the most powerful thing you can do with artificial intelligence isn't just make systems faster — it's make *people's decisions* better.
 
-My thing is building AI systems that actually solve real problems — not just clean notebook experiments, but tools that cut hours of manual work down to minutes, help doctors catch cancer earlier, and give people a way to talk when they don't know where to start.
-
----
-
-## 🧠 What I'm About
-
-I started with a simple frustration: a lot of important work is still done manually when it really doesn't have to be. People spending hours compiling reports that could be generated in seconds. Doctors reviewing images one by one when a model could flag the risky ones first. Organizations sitting on data they can't make sense of fast enough to act on it.
-
-So that's what I focus on - **using AI to close the gap between data and decisions**.
-
-At DePaul's BETA Hub, I help entrepreneurs and student teams build their online presence. At my internship with Kandha Consulting (working with Solenis), I built an AI agent that cut manual change-tracking effort by ~40% and collapsed multi-hour reporting cycles down to under 30 minutes. Earlier, at Onward Technologies, I built and fine-tuned regression models on business data, pushing prediction accuracy 10–15% beyond baseline. And at IBM, I built a CNN for early breast cancer detection that improved inference speed by ~30%.
-
-The through-line in all of it: **find the bottleneck, build something intelligent around it, measure the improvement.**
+I'm currently pursuing my **MS in Artificial Intelligence at DePaul University** (graduating March 2026), and I sit at an interesting crossroads: I genuinely care about both the technical side of AI *and* how it shows up in the real world — in marketing, in business operations, in the stories organizations tell and the decisions they make.
 
 ---
 
-## 🔨 Projects
+## 🧠 What I Actually Do
 
-Here's what's in this repository - each one tackles a real problem with a machine learning or deep learning approach:
+Most of my work lives somewhere between **building AI systems** and **making them useful for humans**.
 
----
+That means I've built LLM-based agents that cut hours of manual reporting down to under 30 minutes. I've engineered change-tracking automation that reduced manual effort by 40% for a real enterprise team. I've trained deep learning models that spot patterns in medical images faster than traditional methods.
 
-### 🎗️ [Breast Cancer Detection Using Deep Learning](https://github.com/ArjunKumarChandrasekar/Breast-Cancer-Detection-Using-Deep-Learning)
-**The problem:** Breast cancer is one of the most treatable cancers — but only if caught early. Manual diagnosis is slow and inconsistent.
-**What I built:** A deep learning neural network trained on clinical cell measurements that classifies tumors as malignant or benign with high accuracy. Built to act as a fast, reliable second opinion for clinicians.
-`Python` `TensorFlow/Keras` `Deep Learning` `Healthcare AI`
+But more than the technical wins, what I find interesting is the *why* — why does this model matter? Who is it for? What decision does it make easier?
 
----
-
-### 🧠 [Mental Health Support Chatbot](https://github.com/ArjunKumarChandrasekar/Mental-Health-Support-Chatbot)
-**The problem:** Most people struggling with mental health don't reach out — not because they don't want help, but because starting that conversation feels impossible.
-**What I built:** An NLP-powered chatbot that provides a low-barrier, judgment-free space to talk, identifies the user's emotional state, and gently guides them toward resources. Built with a PyTorch neural network and a Flask web interface.
-`Python` `PyTorch` `NLTK` `Flask` `NLP`
+That's where the marketing brain kicks in.
 
 ---
 
-### ✍️ [Signature Detection Using ResNet](https://github.com/ArjunKumarChandrasekar/Signature-Detection-using-Resnet)
-**The problem:** Organizations processing large volumes of documents need to know — automatically — whether a document has been signed.
-**What I built:** A ResNet-based computer vision model trained on annotated document images that detects the presence of a signature. Useful for legal, banking, and document management pipelines.
-`Python` `ResNet` `Computer Vision` `LabelImg` `PyTorch`
+## 🔗 Where AI Meets Marketing
+
+I'm drawn to the intersection of **AI and marketing** because that's where data starts talking to people.
+
+Sentiment analysis that tells you how an audience actually *feels* about your brand — not just what they clicked. Predictive models that tell you what a customer is likely to do next. AI agents that take the repetitive parts of content workflows off your plate so you can focus on the creative parts.
+
+The projects in this portfolio reflect that thinking. Whether it's analyzing Twitter sentiment at scale with PySpark or building intelligent systems that automate stakeholder communications — the thread running through all of it is: *how do we get useful signal out of noisy data, and how do we act on it faster?*
 
 ---
 
-### 🐦 [Twitter Sentiment Analysis Using PySpark](https://github.com/ArjunKumarChandrasekar/Twitter-Sentiment-Analysis-Using-PySpark)
-**The problem:** Millions of tweets go out every day carrying real public opinion — but nobody can read them all, and regular tools choke on the volume.
-**What I built:** A PySpark-powered NLP pipeline that processes Twitter data at scale and classifies tweets as positive, negative, or neutral using Logistic Regression. Designed to handle the speed and volume of real social data.
-`Python` `PySpark` `MLlib` `NLP` `Big Data`
+## 🗂️ Projects Here
+
+| Project | What it does |
+|---|---|
+| 🏢 [Enterprise AI Agent Platform](https://github.com/ArjunKumarChandrasekar/Enterprise-AI-Agent-Platform) | AI agents that automate complex business workflows end-to-end |
+| 🎗️ [Breast Cancer Detection](https://github.com/ArjunKumarChandrasekar/Breast-Cancer-Detection-Using-Deep-Learning) | Deep learning model that classifies tumors as malignant or benign |
+| 🧠 [Mental Health Support Chatbot](https://github.com/ArjunKumarChandrasekar/Mental-Health-Support-Chatbot) | NLP chatbot that listens, responds with empathy, and guides users to support |
+| 🐦 [Twitter Sentiment Analysis](https://github.com/ArjunKumarChandrasekar/Twitter-Sentiment-Analysis-Using-PySpark) | PySpark pipeline that classifies tweet sentiment at scale |
+| 🚗 [Used Car Price Prediction](https://github.com/ArjunKumarChandrasekar/Predicting-the-Price-of-Used-Cars) | ML models that predict fair market value for used vehicles |
+| ✍️ [Signature Detection with ResNet](https://github.com/ArjunKumarChandrasekar/Signature-Detection-using-Resnet) | Computer vision model that detects signatures in scanned documents |
 
 ---
 
-### 🚗 [Predicting the Price of Used Cars](https://github.com/ArjunKumarChandrasekar/Predicting-the-Price-of-Used-Cars)
-**The problem:** Buying or selling a used car is a guessing game. Nobody really knows if the price on the windshield is fair.
-**What I built:** Five regression models (Linear, Ridge, Lasso, Random Forest, Gradient Boosting) trained on real used car data and benchmarked against each other to find the most accurate price predictor. The winning model can estimate a fair selling price from a car's specs.
-`Python` `scikit-learn` `pandas` `Regression` `EDA`
+## 🛠️ Tools I Work With
+
+**AI/ML:** Python, PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain, Meta Llama, YOLO
+
+**Data:** Pandas, NumPy, PySpark, SQL, Matplotlib, Seaborn
+
+**Infrastructure:** AWS, Azure, Docker, REST APIs, Linux
+
+**Web & Design:** React.js, HTML, CSS, Figma
+
+**Workflow:** Slack, Notion, GitHub
 
 ---
 
-### 🤖 [Enterprise AI Agent Platform](https://github.com/ArjunKumarChandrasekar/Enterprise-AI-Agent-Platform)
-**The problem:** Enterprise teams waste enormous time on repetitive coordination work — tracking changes, writing summaries, compiling reports — that AI should be handling.
-**What I built:** An AI agent platform designed for enterprise workflow automation. Built from experience automating real processes at Solenis, where similar systems reduced manual tracking effort by ~40% and cut reporting cycles from hours to under 30 minutes.
-`Python` `LLMs` `AI Agents` `LangChain` `Workflow Automation`
+## 📄 A Few Things Worth Mentioning
+
+- 🥈 **IBM ZDatathon for Social Good — Second Place** (IBM, Dec 2022)
+- 📝 Published research on **Abstractive Text Summarization using Reinforcement Learning** (Mar 2024)
+- 📝 Published research on **AI-driven Food Supply Chain Quality Control** (July 2025)
+- ☁️ **AWS Academy Graduate** (Nov 2023)
 
 ---
 
-## 📚 Publications
+## 🤝 Let's Connect
 
-- **Enhancing Abstractive Text Summarization with Proximal Policy Optimization** *(March 2024)*
-  Explored using reinforcement learning (PPO) to improve how language models summarize long-form text — making summaries more accurate and coherent.
+I'm always interested in conversations around AI applications, marketing technology, intelligent automation, and building things that actually help people.
 
-- **Revolutionizing Food Supply Chains: An AI and ML-Driven Model for Enhanced Quality Control and Traceability** *(July 2025)*
-  Applied AI to a logistics problem — using ML models to detect quality issues and improve traceability across complex food supply chains.
-
----
-
-## 🛠️ Skills & Tools
-
-```
-Languages      Python · C++ · SQL · HTML/CSS
-AI/ML          PyTorch · TensorFlow · scikit-learn · HuggingFace · LangChain
-               Meta Llama · YOLO · OCR · PySpark
-Cloud & Infra  AWS · Azure · Docker · REST APIs · Linux
-Data           pandas · NumPy · Matplotlib · Seaborn
-Web            React.js
-Workflow       Notion · Slack · Figma
-```
-
-**Specializations:** LLM-based system design · RAG · AI agent orchestration · workflow automation · model training & evaluation · feature engineering · inference optimization · computer vision · NLP
+- 🌐 [Portfolio](https://scarjunkumar.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/scak)
+- 📬 arjunkumarsc2@gmail.com
 
 ---
 
-## 🎓 Education & Certifications
-
-- **MS in Artificial Intelligence** — DePaul University *(Sept 2024 – March 2026)*
-- **B.Tech in Computer Science (AI focused)** — Amrita Vishwa Vidyapeetham *(2020 – 2024)*
-- **AWS Academy Graduate** — Amazon Web Services *(Nov 2023)*
-- **IBM ZDatathon for Social Good — 2nd Place** *(Dec 2022)*
-
----
-
-## 📬 Let's Connect
-
-- 🌐 Portfolio: [scarjunkumar.vercel.app](https://scarjunkumar.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/scak](https://www.linkedin.com/in/scak)
-- 📧 Email: arjunkumarsc2@gmail.com
-
----
-
-*I'm always interested in roles and collaborations at the intersection of AI, automation, and real-world impact. If something here caught your eye — let's talk.*
+*"The goal isn't just to build models that perform well on benchmarks. It's to build systems that make the right call when it matters."*
