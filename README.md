@@ -49,9 +49,9 @@ The projects in this portfolio reflect that thinking. Whether it's analyzing Twi
 
 **Infrastructure:** AWS, Azure, Docker, REST APIs, Linux
 
-**Web & Design:** React.js, HTML, CSS, Figma
+**Web & Design:** React.js, HTML, CSS, Figma, Adobe Creative Suite
 
-**Workflow:** Slack, Notion, GitHub
+**Workflow:** Slack, Notion, GitHub, N8N
 
 ---
 
