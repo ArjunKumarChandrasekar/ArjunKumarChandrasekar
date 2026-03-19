@@ -32,7 +32,7 @@ The projects in this portfolio reflect that thinking. Whether it's analyzing Twi
 
 | Project | What it does |
 |---|---|
-| 🏎️ Highway-Env RL Experiments | DQN, PPO & A2C agents trained across 243 configs on autonomous driving environments |
+| 🏎️ [Highway-Env RL Experiments](https://github.com/ArjunKumarChandrasekar/Highway-Env-Experiments) | DQN, PPO & A2C agents trained across 243 configs on autonomous driving environments |
 | 🏢 [Enterprise AI Agent Platform](https://github.com/ArjunKumarChandrasekar/Enterprise-AI-Agent-Platform) | AI agents that automate complex business workflows end-to-end |
 | 🎗️ [Breast Cancer Detection](https://github.com/ArjunKumarChandrasekar/Breast-Cancer-Detection-Using-Deep-Learning) | Deep learning model that classifies tumors as malignant or benign |
 | 🧠 [Mental Health Support Chatbot](https://github.com/ArjunKumarChandrasekar/Mental-Health-Support-Chatbot) | NLP chatbot that listens, responds with empathy, and guides users to support |
